@@ -1,0 +1,136 @@
+DEMONSTRATION SAFETY GUIDANCE — SmartFactory Copilot
+Category: Head Protection
+Document: helmet_safety.txt
+NOTE: This document is bundled as demonstration guidance for the SmartFactory AI Copilot
+project. It is NOT an official industrial regulation or certified safety standard.
+Consult your organisation's EHS department and applicable national regulations for
+legally binding requirements.
+
+==============================================================================
+SECTION 1 — HARD HAT / SAFETY HELMET STANDARD OPERATING PROCEDURE
+==============================================================================
+PURPOSE:
+This procedure establishes the requirements for the selection, use, inspection,
+and replacement of safety helmets (hard hats) in SmartFactory facilities to
+protect workers from head injuries caused by falling objects, collisions with
+fixed structures, and electrical hazards.
+
+==============================================================================
+SECTION 2 — APPLICABLE ZONES
+==============================================================================
+Safety helmets are MANDATORY in the following areas:
+  - All assembly lines and production floors.
+  - Loading docks and vehicle operating areas.
+  - Warehouse storage and racking areas.
+  - Maintenance workshops and engineering bays.
+  - Any area with overhead structures, cranes, or lifting equipment.
+
+Safety helmets are RECOMMENDED (but may be discretionary) in:
+  - Enclosed office areas within production buildings.
+  - Visitor walkways with physical barriers separating them from operations.
+
+==============================================================================
+SECTION 3 — HELMET SELECTION CRITERIA
+==============================================================================
+3.1 Class Ratings:
+  - Class G (General): Protection against impact and penetration.
+    Voltage protection up to 2,200 V. Suitable for most production areas.
+  - Class E (Electrical): Protection against impact and penetration.
+    Voltage protection up to 20,000 V. Required in electrical hazard zones.
+  - Class C (Conductive): Impact protection only. NOT suitable for electrical
+    work. Suitable for areas with no electrical hazard.
+
+3.2 Suspension Systems:
+  - 4-point or 6-point suspension recommended for all industrial use.
+  - Ratchet or pin-lock adjustment systems preferred for comfort and fit.
+
+3.3 Colour Coding (recommended):
+  - White: Supervisors and managers.
+  - Yellow: General workers.
+  - Blue: Maintenance and engineering.
+  - Red: Fire wardens and first aid responders.
+  - Orange: Visitors and contractors.
+
+==============================================================================
+SECTION 4 — PRE-USE INSPECTION CHECKLIST
+==============================================================================
+Before every shift, workers must visually inspect their helmet for:
+  [ ] Cracks, dents, or punctures in the shell.
+  [ ] Fraying, tears, or broken components in the suspension webbing.
+  [ ] Discolouration, chalking, or brittleness (signs of UV degradation).
+  [ ] Loose or missing components (suspension clips, chin strap).
+  [ ] Evidence of chemical exposure or paint contact.
+
+If any defect is identified:
+  - Remove the helmet from service immediately.
+  - Tag it as "DEFECTIVE — DO NOT USE".
+  - Obtain a replacement from the PPE station before entering any work area.
+
+==============================================================================
+SECTION 5 — CORRECT WEARING PROCEDURE
+==============================================================================
+  1. Position the helmet squarely on the head.
+  2. Adjust the suspension for a snug but comfortable fit.
+  3. The helmet brim must face forward unless the task specifically requires
+     a reversed orientation (permitted only for certain close-clearance tasks
+     — check with your supervisor).
+  4. Chin straps must be fastened when working at height or in high-wind areas.
+  5. No materials (stickers not covering inspection marks, materials inside the
+     shell) should be placed between the helmet and the head.
+
+PROHIBITED MODIFICATIONS:
+  - Painting the shell (damages integrity and conceals defects).
+  - Drilling ventilation holes.
+  - Storing items inside the helmet shell between the shell and suspension.
+
+==============================================================================
+SECTION 6 — REPLACEMENT SCHEDULE
+==============================================================================
+Helmet shell: Replace every 5 years from the date of manufacture
+              (stamped inside the shell) or immediately after any significant
+              impact, regardless of visible damage.
+
+Suspension system: Replace every 12 months or when any wear or damage
+                   is detected.
+
+Mandatory immediate replacement triggers:
+  - Any head impact during an incident (even without visible damage).
+  - Exposure to chemicals or extreme heat.
+  - Visible cracking, crazing, or brittleness.
+
+==============================================================================
+SECTION 7 — CCTV DETECTION AND RESPONSE
+==============================================================================
+When the CCTV safety monitoring system detects a worker without a helmet:
+  1. An automatic alert is raised in the SmartFactory Copilot incident log.
+  2. The area supervisor receives a notification within 60 seconds.
+  3. The supervisor must respond by:
+     a. Identifying the worker using the CCTV frame reference.
+     b. Approaching the worker directly.
+     c. Directing the worker to a PPE station to collect a helmet.
+     d. Ensuring the helmet is correctly fitted before work resumes.
+  4. The supervisor closes the incident in the system with the corrective
+     action taken.
+  5. If the worker cannot be identified from the CCTV feed, a zone-wide
+     announcement must be made to remind all workers in that area.
+
+==============================================================================
+SECTION 8 — REPEATED VIOLATIONS — ESCALATION PATH
+==============================================================================
+  1st violation: Verbal correction. Logged in the incident system.
+  2nd violation (within 30 days): Written warning. Mandatory 15-minute
+     helmet safety briefing. Logged with supervisor signature.
+  3rd violation (within 30 days): Removal from zone pending disciplinary
+     review. EHS manager notified. Retraining required before return.
+
+==============================================================================
+SECTION 9 — EMERGENCY RESPONSE
+==============================================================================
+If a worker sustains a head injury:
+  1. Activate the emergency response procedure immediately.
+  2. Do not remove the helmet if the worker is unconscious or the injury
+     appears to involve the neck or spine.
+  3. Contact emergency services.
+  4. Preserve the incident scene for investigation.
+  5. Retain the helmet involved in the incident for analysis.
+  6. Complete a full incident report within 24 hours.

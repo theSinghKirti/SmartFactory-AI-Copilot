@@ -1,0 +1,111 @@
+DEMONSTRATION SAFETY GUIDANCE — SmartFactory Copilot
+Category: PPE Compliance
+Document: ppe_compliance.txt
+NOTE: This document is bundled as demonstration guidance for the SmartFactory AI Copilot
+project. It is NOT an official industrial regulation or certified safety standard.
+Consult your organisation's EHS department and applicable national regulations for
+legally binding requirements.
+
+==============================================================================
+SECTION 1 — PURPOSE
+==============================================================================
+This guidance document defines the minimum Personal Protective Equipment (PPE)
+requirements for workers operating inside SmartFactory facilities. It establishes
+the roles and responsibilities of supervisors, safety officers, and individual
+workers in ensuring PPE compliance at all times.
+
+==============================================================================
+SECTION 2 — SCOPE
+==============================================================================
+This guidance applies to:
+- All production floor workers.
+- Maintenance and engineering staff.
+- Visitors and contractors entering designated PPE zones.
+- All factory zones including Assembly Areas, Loading Docks, Warehouses, and
+  Packing Areas.
+
+==============================================================================
+SECTION 3 — MANDATORY PPE REQUIREMENTS
+==============================================================================
+3.1 Hard Hat / Safety Helmet
+  - Mandatory in all areas where overhead work, forklift operations, or
+    material storage is active.
+  - Class E helmets required in areas with electrical hazards.
+  - Must be inspected before each shift for cracks, dents, or damage.
+  - Replacement interval: every 5 years, or immediately after any significant
+    impact event.
+
+3.2 High-Visibility Safety Vest
+  - Mandatory in all areas where forklifts, automated guided vehicles (AGVs),
+    or heavy machinery operate.
+  - Minimum Class 2 reflective vest required on production floors.
+  - Must remain fastened at all times — open or partially worn vests are
+    considered non-compliant.
+
+3.3 Safety Mask / Respiratory Protection
+  - Required in areas with dust, chemical exposure, or airborne particulates
+    above permissible exposure limits (PEL).
+  - Minimum FFP2 / N95 rated mask in designated respiratory hazard zones.
+  - Disposable masks must not be reused across shifts.
+
+3.4 Safety Goggles / Eye Protection
+  - Required in welding areas, chemical handling zones, and areas with
+    projectile or splash risk.
+  - Must meet ANSI Z87.1 or equivalent national standard.
+
+==============================================================================
+SECTION 4 — SUPERVISOR RESPONSIBILITIES
+==============================================================================
+- Conduct a visual PPE compliance check at the start of each shift.
+- Remove any worker from the production floor who is non-compliant until
+  appropriate PPE is obtained.
+- Document all PPE violations using the facility's incident logging system.
+- Escalate repeat violations (3 or more within 30 days) to the EHS manager.
+- Ensure replacement PPE stock is available at all entry checkpoints.
+
+==============================================================================
+SECTION 5 — CORRECTIVE ACTIONS FOR VIOLATIONS
+==============================================================================
+First violation:
+  - Verbal warning.
+  - Immediate correction required before resuming work.
+  - Entry in incident log.
+
+Second violation (same worker, within 30 days):
+  - Written warning issued.
+  - Mandatory PPE refresher training (1 hour).
+  - Supervisor notified.
+
+Third violation (same worker, within 30 days):
+  - Removal from production floor for the shift.
+  - Disciplinary review meeting.
+  - Review of work assignment suitability.
+
+==============================================================================
+SECTION 6 — INCIDENT RESPONSE PROCEDURE
+==============================================================================
+When a PPE violation is detected by the CCTV monitoring system or by supervisors:
+  1. Alert is raised in the incident management system.
+  2. The supervising operator acknowledges the alert within 5 minutes.
+  3. The worker is approached and guided to the nearest PPE station.
+  4. The incident is logged with: worker ID, zone, violation type, timestamp,
+     and corrective action taken.
+  5. If the worker refuses to comply, the area supervisor is notified immediately.
+
+==============================================================================
+SECTION 7 — PPE INSPECTION AND MAINTENANCE
+==============================================================================
+- PPE stations must be stocked and checked at the beginning of every shift.
+- Damaged or defective PPE must be removed from circulation immediately.
+- Helmets and vests with visible damage (tears, cracks, discolouration) must
+  not be returned to stock.
+- Maintenance records for reusable PPE (respirators, goggles) must be kept
+  for a minimum of 2 years.
+
+==============================================================================
+SECTION 8 — TRAINING REQUIREMENTS
+==============================================================================
+- All new workers must complete a PPE induction before entering any production
+  zone (minimum 30 minutes).
+- Annual PPE refresher training is mandatory for all production staff.
+- Training records must be retained for 3 years.

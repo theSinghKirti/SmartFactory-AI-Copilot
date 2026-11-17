@@ -1,0 +1,172 @@
+DEMONSTRATION SAFETY GUIDANCE — SmartFactory Copilot
+Category: General Workplace Safety
+Document: workplace_safety.txt
+NOTE: This document is bundled as demonstration guidance for the SmartFactory AI Copilot
+project. It is NOT an official industrial regulation or certified safety standard.
+Consult your organisation's EHS department and applicable national regulations for
+legally binding requirements.
+
+==============================================================================
+SECTION 1 — GENERAL WORKPLACE SAFETY FRAMEWORK
+==============================================================================
+PURPOSE:
+This document establishes the general workplace safety standards for all
+SmartFactory production, warehouse, and support areas. It covers hazard
+identification, emergency procedures, zone safety rules, and the responsibilities
+of all personnel on site.
+
+==============================================================================
+SECTION 2 — ZONE DEFINITIONS AND SAFETY CLASSIFICATIONS
+==============================================================================
+Zone A — Assembly Line Area:
+  Risk Level: HIGH
+  Primary hazards: Moving machinery, pinch points, repetitive motion,
+                   electrical equipment, overhead cranes.
+  Mandatory PPE: Hard hat, safety vest, closed-toe safety footwear,
+                 safety glasses in designated areas.
+
+Zone B — Loading Dock / Logistics Area:
+  Risk Level: HIGH
+  Primary hazards: Forklift traffic, vehicle movements, loading/unloading
+                   operations, edge fall risk at dock levellers.
+  Mandatory PPE: Hard hat, high-visibility vest, safety footwear.
+  Additional rules: No pedestrian access during active vehicle movements without
+                    a spotter. All forklift operators must hold a valid permit.
+
+Zone C — Warehouse / Storage Area:
+  Risk Level: MEDIUM-HIGH
+  Primary hazards: Racking collapse risk, falling stored materials, forklift
+                   traffic, narrow aisles.
+  Mandatory PPE: Hard hat, safety vest, safety footwear.
+
+Zone D — Packing Area:
+  Risk Level: MEDIUM
+  Primary hazards: Ergonomic risk (repetitive tasks), packaging machinery,
+                   cutting tools.
+  Mandatory PPE: Safety gloves, closed-toe footwear. Hard hat required only
+                 near conveyor systems or overhead structures.
+
+==============================================================================
+SECTION 3 — GENERAL SAFETY RULES (ALL ZONES)
+==============================================================================
+  1. Never operate machinery or equipment without authorisation and training.
+  2. Keep walkways and emergency exits clear at all times.
+  3. Report any hazard, near-miss, or incident immediately to your supervisor.
+  4. Do not use mobile phones or personal audio devices while operating machinery.
+  5. All spills must be cleaned up immediately using appropriate materials.
+  6. No food or drink on the production floor.
+  7. Horseplay and running on the factory floor are strictly prohibited.
+  8. All visitors must be escorted by an authorised employee and must wear
+     the full PPE kit issued at reception.
+  9. Fatigue: workers who feel unfit for duty must notify their supervisor.
+     Do not operate heavy machinery when fatigued.
+ 10. Lone working in high-risk zones is prohibited without a check-in protocol.
+
+==============================================================================
+SECTION 4 — HAZARD IDENTIFICATION AND REPORTING
+==============================================================================
+4.1 Hazard Categories:
+  - Immediate danger (risk of injury NOW): Stop all work, alert nearby workers,
+    notify supervisor immediately.
+  - Near-miss (potential injury, no injury occurred): Report to supervisor within
+    1 hour. Complete a near-miss report form.
+  - Unsafe condition (deteriorating equipment, damaged floor, inadequate
+    lighting): Report to maintenance via the facility management system within
+    the same shift.
+
+4.2 Reporting Process:
+  1. Identify and communicate the hazard verbally to nearby workers.
+  2. Where safe to do so, isolate the hazard (barrier, safety cone, lockout).
+  3. Report using the facility incident management system (or paper form if
+     the system is unavailable).
+  4. Do not leave an uncontrolled hazard without notifying someone.
+
+==============================================================================
+SECTION 5 — EMERGENCY PROCEDURES
+==============================================================================
+5.1 Fire:
+  - On discovering a fire: activate the nearest fire alarm pull point.
+  - Call emergency services.
+  - Evacuate all personnel via the designated evacuation routes.
+  - Do NOT use lifts during evacuation.
+  - Muster at the designated assembly point and await a headcount.
+  - Do NOT re-enter the building until the fire warden or emergency services
+    confirm it is safe.
+
+5.2 Medical Emergency:
+  - Call for the nearest trained first aider.
+  - Contact emergency services if the injury is serious.
+  - Do not move an injured person unless they are in immediate danger.
+  - Preserve the scene for incident investigation (without compromising care).
+
+5.3 Chemical Spill:
+  - Alert all workers in the immediate area.
+  - Refer to the Safety Data Sheet (SDS) for the material involved.
+  - Use the spill kit appropriate for the chemical type.
+  - Ventilate the area if safe to do so.
+  - Inform the EHS team immediately.
+
+5.4 Power Failure:
+  - Emergency lighting will activate automatically.
+  - Isolate all powered equipment before attempting to exit machinery.
+  - Follow supervisor instructions for evacuation or shelter-in-place.
+
+==============================================================================
+SECTION 6 — LOCKOUT / TAGOUT (LOTO) PROCEDURE
+==============================================================================
+Before performing any maintenance, cleaning, or adjustment on machinery:
+  1. Identify all energy sources (electrical, pneumatic, hydraulic, gravitational).
+  2. Notify all affected workers.
+  3. Shut down the equipment using the normal stopping procedure.
+  4. Isolate each energy source using the designated isolation point.
+  5. Apply a personal lockout padlock and tag to each isolation point.
+  6. Release or restrain any stored energy (bleed pneumatics, block elevated parts).
+  7. Verify isolation by attempting to start the machine (zero energy verification).
+  8. Perform the maintenance task.
+  9. Remove all tools and materials.
+ 10. Remove locks and tags only by the person who applied them.
+ 11. Notify workers that the equipment is being returned to service.
+ 12. Re-energise the equipment.
+
+NEVER remove another worker's lockout device. If a worker has left site with a
+lock in place, follow the site's emergency lock removal procedure with supervisor
+and EHS manager authorisation.
+
+==============================================================================
+SECTION 7 — CCTV SAFETY MONITORING INTEGRATION
+==============================================================================
+SmartFactory facilities use AI-powered CCTV monitoring to detect:
+  - Workers without mandatory PPE (helmets, vests, masks, goggles).
+  - Unauthorised access to restricted zones.
+  - Unsafe worker behaviours in high-risk areas.
+
+When an AI alert is raised:
+  1. The monitoring system logs the incident automatically with timestamp,
+     camera location, zone, and violation type.
+  2. The duty supervisor receives a notification in the SmartFactory Copilot
+     dashboard.
+  3. The supervisor investigates within 5 minutes of alert generation.
+  4. Corrective action is taken and the incident is closed in the system.
+  5. Persistent violations trigger escalation to the EHS manager.
+
+Workers are informed that CCTV monitoring is active in all production zones
+for their safety and the safety of their colleagues.
+
+==============================================================================
+SECTION 8 — INCIDENT INVESTIGATION PROCESS
+==============================================================================
+All incidents (injuries, near-misses, property damage, environmental releases)
+must be investigated to identify root causes and prevent recurrence.
+
+Investigation levels:
+  - Level 1 (supervisor): Near-misses and minor first-aid injuries.
+    Timeline: Completed within 24 hours.
+  - Level 2 (EHS + department manager): Lost-time injuries, significant
+    property damage. Timeline: Completed within 72 hours.
+  - Level 3 (senior management + EHS): Serious injuries, dangerous occurrences,
+    regulatory reportable events. Timeline: Immediate notification to management;
+    full report within 7 days.
+
+Root Cause Analysis methods used:
+  - 5-Whys for routine incidents.
+  - Fishbone (Ishikawa) for complex multi-factor incidents.
